@@ -2,6 +2,10 @@
 layout: home
 ---
 
-# Welcome to {{ site.subtitle }}
 
+<html>
+<h1> Welcome to {{ site.subtitle }} </h1>
 {{ site.description }}
+</html>
+
+
