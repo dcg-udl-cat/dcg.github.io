@@ -1,0 +1,25 @@
+# Site settings
+title: DCG
+subtitle: Distributed Computing Group
+description: The Distributed Computing Group (DCG) at the University of Lleida is dedicated to the exploration and advancement of distributed systems and applications. Our research is particularly concentrated on Cloud Computing, Fog Computing, Edge Computing, and the Internet of Things. Our aim is to devise continuous solutions that seamlessly transition from cloud to edge, and vice versa, thereby optimizing the end-user experience. We believe in the power of knowledge transfer and are committed to bringing our research findings to the industry. In addition, we actively seek collaborations with entities within the health ecosystem, including hospitals, clinics, and health centers. Our goal is to leverage our expertise to enhance the quality of life for citizens. 
+domain: dcg.github.io       
+url: "https://dcg.github.io" 
+baseurl: "" 
+logo: "/assets/images/logo.png"
+breadcrumbs:
+  enabled: true
+locale: en
+
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: contrast
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Collections
+collections:
+  members:
+    output: true
+

@@ -1,0 +1,13 @@
+main:
+  - title: Home
+    url: /
+  - title: Infrastructures
+    url: /infrastructures/
+  - title: Members
+    url: /members/
+  - title: Publications
+    url: /publications/
+  - title: Funding
+    url: /funding/
+  - title: ResearchHub
+    url: /researchhub/

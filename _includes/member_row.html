@@ -1,0 +1,44 @@
+<article class="member">
+  <div class="row member-row">
+    <div class="col-md-12">
+      <div class="member-info mb-2">
+        {% if include.member.name %}
+          <h4 class="mb-0">{{ include.member.name }}</h4>
+        {% endif %}
+        {% if include.member.role and include.member.position %}
+          <p class="text-muted mb-1"> {{ include.member.role }} | {{ include.member.position }} </p>
+        {% endif %}
+      </div>
+      <div class="member-links">
+        {% if member.google_scholar %}
+          <a href="{{ member.google_scholar }}" class="btn btn-outline-info btn-sm mr-1 mb-1">Google Scholar</a>
+        {% endif %}
+        {% if member.dblp %}
+          <a href="{{ member.dblp }}" class="btn btn-outline-info btn-sm mr-1 mb-1">DBLP</a>
+        {% endif %}
+        {% if member.orcid %}
+          <a href="{{ member.orcid }}" class="btn btn-outline-info btn-sm mr-1 mb-1">ORCID</a>
+        {% endif %}
+        {% if member.researchgate %}
+          <a href="{{ member.researchgate }}" class="btn btn-outline-info btn-sm mr-1 mb-1">ResearchGate</a>
+        {% endif %}
+        {% if member.pubmed %}
+          <a href="{{ member.pubmed }}" class="btn btn-outline-info btn-sm mr-1 mb-1">PubMed</a>
+        {% endif %}
+        {% if member.scopus %}
+          <a href="{{ member.scopus }}" class="btn btn-outline-info btn-sm mr-1 mb-1">Scopus</a>
+        {% endif %}
+        {% if member.github %}
+          <a href="{{ member.github }}" class="btn btn-outline-info btn-sm mr-1 mb-1">GitHub</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</article>
+
+
+<!-- Assuming Bootstrap JS and Popper.js (required for Bootstrap) are already included in your project -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
