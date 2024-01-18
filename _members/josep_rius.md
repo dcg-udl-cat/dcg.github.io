@@ -1,5 +1,5 @@
 ---
-layout: member
+#layout: member
 name: "Josep Rius"
 doctor: "true"
 position: "Associate Professor"

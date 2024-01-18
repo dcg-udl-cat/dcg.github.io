@@ -1,5 +1,5 @@
 ---
-layout: member
+#layout: member
 name: "Jordi Vilaplana"
 doctor: "true"
 position: "Lecturer"

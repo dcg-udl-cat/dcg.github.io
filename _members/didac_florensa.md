@@ -1,5 +1,5 @@
 ---
-layout: member
+#layout: member
 name: "Dídac Florensa Cazorla"
 doctor: "true"
 # Check the available positions in _config.yml how to

@@ -1,5 +1,5 @@
 ---
-layout: member
+#layout: member
 name: "Francesc Solsona"
 doctor: "true"
 position: "Full Professor"

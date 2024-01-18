@@ -1,5 +1,5 @@
 ---
-layout: member
+#layout: member
 name: "Sergi López"
 doctor: "false"
 position: "PhD Student"
