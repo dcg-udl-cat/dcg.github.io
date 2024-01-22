@@ -26,4 +26,6 @@ plugins:
 collections:
   members:
     output: true
+  publications:
+    output: true
 

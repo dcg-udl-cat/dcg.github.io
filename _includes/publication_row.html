@@ -1,0 +1,17 @@
+<article class="publication">
+    <div class="card-body">
+      <p class="card-text citation">
+        [{{ publication.pub_date }}] <strong>{{ publication.title }}.</strong>
+        {% if publication.url %}
+          <a href="{{ publication.url }}" class="btn btn-outline-info btn-sm mr-1 mb-1" target="_blank">See in Google Scholar</a>
+        {% endif %}
+      </p>
+    </div>
+</article>
+
+
+<!-- Assuming Bootstrap JS and Popper.js (required for Bootstrap) are already included in your project -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
