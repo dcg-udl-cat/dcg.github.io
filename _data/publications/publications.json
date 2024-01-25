@@ -264,270 +264,6 @@
     "pub_date": "2013"
   },
   {
-    "title": "A queuing theory model for cloud computing",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:u5HHmVD_uO8C",
-    "authors": "J Vilaplana, F Solsona, I Teixid\u00f3, J Mateo, F Abella, J Rius",
-    "journal": "The Journal of Supercomputing 69",
-    "pages": "492-507",
-    "pub_date": "2014"
-  },
-  {
-    "title": "Severity of COVID-19 cases in the months of predominance of the Alpha and Delta variants",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:JV2RwH3_ST0C",
-    "authors": "D Florensa, J Mateo, R Spaimoc, C Miret, S Godoy, F Solsona, P Godoy",
-    "journal": "Scientific Reports 12 (1)",
-    "pages": "15456",
-    "pub_date": "2022"
-  },
-  {
-    "title": "A queuing theory model for fog computing",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:j3f4tGmQtD8C",
-    "authors": "L Mas, J Vilaplana, J Mateo, F Solsona",
-    "journal": "The Journal of Supercomputing 78 (8)",
-    "pages": "11138-11155",
-    "pub_date": "2022"
-  },
-  {
-    "title": "CART, a decision SLA model for SaaS providers to keep QoS regarding availability and performance",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:YOwf2qJgpHMC",
-    "authors": "J Mateo-Fornes, F Solsona-Tehas, J Vilaplana-Mayoral, ...",
-    "journal": "IEEE Access 7",
-    "pages": "38195-38204",
-    "pub_date": "2019"
-  },
-  {
-    "title": "H-PC: a cloud computing tool for supervising hypertensive patients",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:9yKSN-GCB0IC",
-    "authors": "J Vilaplana, F Solsona, F Abella, J Cuadrado, I Teixid\u00f3, J Mateo, J Rius",
-    "journal": "The Journal of Supercomputing 71",
-    "pages": "591-612",
-    "pub_date": "2015"
-  },
-  {
-    "title": "A production planning model considering uncertain demand using two-stage stochastic programming in a fresh vegetable supply chain context",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:ufrVoPGSRksC",
-    "authors": "J Mateo, LM Pla, F Solsona, A Pag\u00e8s",
-    "journal": "SpringerPlus 5",
-    "pages": "1-16",
-    "pub_date": "2016"
-  },
-  {
-    "title": "Smart contract formation enabling energy\u2010as\u2010a\u2010service in a virtual power plant",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:RHpTSmoSYBkC",
-    "authors": "S Mishra, CJ Crasta, C Bordin, J Mateo\u2010Forn\u00e9s",
-    "journal": "International Journal of Energy Research 46 (3)",
-    "pages": "3272-3294",
-    "pub_date": "2022"
-  },
-  {
-    "title": "S-PC: an e-treatment application for management of smoke-quitting patients",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:d1gkVwhDpl0C",
-    "authors": "J Vilaplana, F Solsona, F Abella, J Cuadrado, R Alves, J Mateo",
-    "journal": "Computer Methods and Programs in Biomedicine 115 (1)",
-    "pages": "33-45",
-    "pub_date": "2014"
-  },
-  {
-    "title": "Increasing online shop revenues with web scraping: a case study for the wine sector",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:mVmsd5A6BfQC",
-    "authors": "O Jorge, A Pons, J Rius, C Vintr\u00f3, J Mateo, J Vilaplana",
-    "journal": "British Food Journal 122 (11)",
-    "pages": "3383-3401",
-    "pub_date": "2020"
-  },
-  {
-    "title": "An SLA and power-saving scheduling consolidation strategy for shared and heterogeneous clouds",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:qjMakFHDy7sC",
-    "authors": "J Vilaplana, J Mateo, I Teixid\u00f3, F Solsona, F Gin\u00e9, C Roig",
-    "journal": "The Journal of Supercomputing 71",
-    "pages": "1817-1832",
-    "pub_date": "2015"
-  },
-  {
-    "title": "An internet of things platform based on microservices and cloud paradigms for livestock",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:e5wmG9Sq2KIC",
-    "authors": "J Mateo-Forn\u00e9s, A Pag\u00e8s-Bernaus, LM Pl\u00e0-Aragon\u00e9s, JP Castells-Gasia, ...",
-    "journal": "Sensors 21 (17)",
-    "pages": "5949",
-    "pub_date": "2021"
-  },
-  {
-    "title": "The use of multiple correspondence analysis to explore associations between categories of qualitative variables and cancer incidence",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:mB3voiENLucC",
-    "authors": "D Florensa, P Godoy, J Mateo, F Solsona, T Pedrol, M Mesas, R Pinol",
-    "journal": "IEEE Journal of Biomedical and Health Informatics 25 (9)",
-    "pages": "3659-3667",
-    "pub_date": "2021"
-  },
-  {
-    "title": "Rare disease discovery: An optimized disease ranking system",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:zYLM7Y9cAGgC",
-    "authors": "M Pinol, R Alves, I Teixido, J Mateo, F Solsona, E Vilapriny\u00f3",
-    "journal": "IEEE Transactions on Industrial Informatics 13 (3)",
-    "pages": "1184-1192",
-    "pub_date": "2017"
-  },
-  {
-    "title": "BPcontrol",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:IjCSPb-OGe4C",
-    "authors": "A Carrera, M Pifarre, J Vilaplana, J Cuadrado, S Solsona, J Mateo, ...",
-    "journal": "Applied clinical informatics 7 (04)",
-    "pages": "1120-1134",
-    "pub_date": "2016"
-  },
-  {
-    "title": "Managing quality, supplier selection, and cold\u2010storage contracts in agrifood supply chain through stochastic optimization",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:_Qo2XoVZTnwC",
-    "authors": "J Mateo\u2010Forn\u00e9s, W Soto\u2010Silva, MC Gonz\u00e1lez\u2010Araya, LM Pl\u00e0\u2010Aragon\u00e8s, ...",
-    "journal": "International Transactions in Operational Research 30 (4)",
-    "pages": "1901-1930",
-    "pub_date": "2023"
-  },
-  {
-    "title": "Autoscaling pods on an on-premise kubernetes infrastructure qos-aware",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:bEWYMUwI8FkC",
-    "authors": "LM Ru\u00edz, PP Pueyo, J Mateo-Forn\u00e9s, JV Mayoral, FS Teh\u00e0s",
-    "journal": "IEEE Access 10",
-    "pages": "33083-33094",
-    "pub_date": "2022"
-  },
-  {
-    "title": "CatSent: a Catalan sentiment analysis website",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:aqlVkmm33-oC",
-    "authors": "P Balaguer, I Teixid\u00f3, J Vilaplana, J Mateo, J Rius, F Solsona",
-    "journal": "Multimedia Tools and Applications 78",
-    "pages": "28137-28155",
-    "pub_date": "2019"
-  },
-  {
-    "title": "Economic assessment of pig meat processing and cutting production by simulation",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:4TOpqqG69KYC",
-    "authors": "LM Pl\u00e0-Aragon\u00e9s, A Pag\u00e8s-Bernaus, E Nadal-Roig, J Mateo-Forn\u00e9s, ...",
-    "journal": "International Journal of Food Engineering 16 (5-6)",
-    "pages": "20180100",
-    "pub_date": "2019"
-  },
-  {
-    "title": "Maintenance of model resilience in distributed edge learning environments",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:ns9cj8rnVeAC",
-    "authors": "Q Wang, C Anagnostopoulos, JM Fornes, K Kolomvatsos, A Vrachimis",
-    "journal": "2023 19th International Conference on Intelligent Environments (IE)",
-    "pages": "1-8",
-    "pub_date": "2023"
-  },
-  {
-    "title": "Acetylsalicylic Acid Effect in Colorectal Cancer Taking into Account the Role of Tobacco, Alcohol and Excess Weight",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:O3NaXMp0MMsC",
-    "authors": "D Florensa, J Mateo, F Solsona, L Galv\u00e1n, M Mesas, R Pi\u00f1ol, ...",
-    "journal": "International Journal of Environmental Research and Public Health 20 (5)",
-    "pages": "4104",
-    "pub_date": "2023"
-  },
-  {
-    "title": "A scalable parallel implementation of the Cluster Benders Decomposition algorithm",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:MXK_kJrjxJIC",
-    "authors": "J Mateo, LM Pla, F Solsona, A Pages",
-    "journal": "Cluster Computing 22",
-    "pages": "877-886",
-    "pub_date": "2019"
-  },
-  {
-    "title": "Predictive Model Resilience in Edge Computing",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:NMxIlDl6LWMC",
-    "authors": "Q Wang, JM Fornes, C Anagnostopoulos, K Kolomvatsos",
-    "journal": "2022 IEEE 8th World Forum on Internet of Things (WF-IoT)",
-    "pages": "1-6",
-    "pub_date": "2022"
-  },
-  {
-    "title": "MetReS, an efficient database for genomic applications",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:UebtZRa9Y70C",
-    "authors": "J Vilaplana, R Alves, F Solsona, J Mateo, I Teixido, M Pifarre",
-    "journal": "Journal of Computational Biology 25 (2)",
-    "pages": "200-213",
-    "pub_date": "2018"
-  },
-  {
-    "title": "Adaptation, implementation, and evaluation of an online health sciences training program for brief smoking intervention: A pre-post study in four European countries",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:ldfaerwXgEUC",
-    "authors": "MI Pardavila-Belio, C Moreno-Arroyo, O Romero-Clar\u00e1, S Tricas-Sauras, ...",
-    "journal": "Nurse Education Today 130",
-    "pages": "105924",
-    "pub_date": "2023"
-  },
-  {
-    "title": "Workshop: Converge of Edge Intelligence in IoT (EdgeA-IoT 2022)",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:vV6vV6tmYwMC",
-    "authors": "C Anagnostopoulos, F Deligiani, K Kolomvatsos, JM Forn\u00e9s",
-    "journal": "2022 IEEE 8th World Forum on Internet of Things (WF-IoT)",
-    "pages": "1-2",
-    "pub_date": "2022"
-  },
-  {
-    "title": "On the Intensive Care Unit Admission During the COVID-19 Pandemic in the Region of Lleida, Spain: A Machine Learning Study",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:GnPB-g6toBAC",
-    "authors": "D Florensa, J Mateo, F Solsona, P Godoy, L Espinosa-Leal",
-    "journal": "International Conference on Extreme Learning Machine",
-    "pages": "92-103",
-    "pub_date": "2021"
-  },
-  {
-    "title": "CatDetect, a framework for detecting Catalan tweets",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:-f6ydRqryjwC",
-    "authors": "S Plaza, J Vilaplana, J Mateo, J Rius, F Solsona",
-    "journal": "Multimedia Tools and Applications 80",
-    "pages": "10657-10677",
-    "pub_date": "2021"
-  },
-  {
-    "title": "A prop\u00f3sito del momento \u00f3ptimo de env\u00edo de los cerdos de engorde al sacrificio",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:QIV2ME_5wuYC",
-    "authors": "LM Pl\u00e0, AP Bernaus, JM Forn\u00e9s, EN Roig",
-    "journal": "Eurocarne: La revista internacional del sector c\u00e1rnico",
-    "pages": "34-46",
-    "pub_date": "2020"
-  },
-  {
-    "title": "Modelo de simulaci\u00f3n para salas de despiece",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:ULOm3_A8WrAC",
-    "authors": "LM Pl\u00e0, AP Bernaus, JM Forn\u00e9s, P Tarrafeta, D Mendioroz",
-    "journal": "Eurocarne: La revista internacional del sector c\u00e1rnico",
-    "pages": "45-56",
-    "pub_date": "2018"
-  },
-  {
-    "title": "B99 THE BEST OF EVERYTHING: HOT TOPICS IN SLEEP: Mortality Patterns In A Large Series Of Patients With Obstructive Sleep Apnea On Treatment With Continuous Positive Airway Pressure",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:8k81kl-MbHgC",
-    "authors": "MS De La Torre, J Valls, G Castella, R Boix, C Colls, A Garcia-Altes, ...",
-    "journal": "American Journal of Respiratory and Critical Care Medicine 193",
-    "pages": "1",
-    "pub_date": "2016"
-  },
-  {
-    "title": "Design of a prototype for modelling membrane computation based on ecosystems in a cloud environment",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:YsMSGLbcyi4C",
-    "authors": "J Mateo, JL L\u00e8rida, F Guirado, M Gonzalez, M\u00c0 Colomer, R Filgueira",
-    "journal": "2014 9th Iberian Conference on Information Systems and Technologies (CISTI)",
-    "pages": "1-2",
-    "pub_date": "2014"
-  },
-  {
-    "title": "Paralelizaci\u00f3n del Algoritmo de Descomposici\u00f3n Cluster Benders",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:isC4tDSrTZIC",
-    "authors": "J Mateo, J Llad\u00f3s, JL L\u00e9rida, LM Pl\u00e0, F Solsona",
-    "journal": "Actas de las XXIV Jornadas de Paralelismo",
-    "pages": "389-394",
-    "pub_date": "2013"
-  },
-  {
-    "title": "Incentivaci\u00f3n del aprendizaje de la programaci\u00f3n en las Ingenier\u00edas. Un caso pr\u00e1ctico",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=t-vbHCoAAAAJ&pagesize=100&citation_for_view=t-vbHCoAAAAJ:TFP_iSt0sucC",
-    "authors": "J Llad\u00f3s, J Mateo, F Cores, JL L\u00e9rida, F Gin\u00e9",
-    "journal": "Actas de las XXIV Jornadas de Paralelismo",
-    "pages": "383-388",
-    "pub_date": "2013"
-  },
-  {
     "title": "The cloud paradigm applied to e-Health",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=u8h7OSYAAAAJ&pagesize=100&citation_for_view=u8h7OSYAAAAJ:M3NEmzRMIkIC",
     "authors": "J Vilaplana, F Solsona, F Abella, R Filgueira, J Rius",
@@ -560,20 +296,20 @@
     "pub_date": "2016"
   },
   {
-    "title": "Cooperative scheduling mechanism for large-scale peer-to-peer computing systems",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=u8h7OSYAAAAJ&pagesize=100&citation_for_view=u8h7OSYAAAAJ:iH-uZ7U-co4C",
-    "authors": "J Rius, F Cores, F Solsona",
-    "journal": "Journal of Network and Computer Applications 36 (6)",
-    "pages": "1620-1631",
-    "pub_date": "2013"
-  },
-  {
     "title": "User behaviour models to forecast electricity consumption of residential customers based on smart metering data",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=u8h7OSYAAAAJ&pagesize=100&citation_for_view=u8h7OSYAAAAJ:EYYDruWGBe4C",
     "authors": "F Lazzari, G Mor, J Cipriano, E Gabaldon, B Grillone, D Chemisana, ...",
     "journal": "Energy Reports 8",
     "pages": "3680-3691",
     "pub_date": "2022"
+  },
+  {
+    "title": "Cooperative scheduling mechanism for large-scale peer-to-peer computing systems",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=u8h7OSYAAAAJ&pagesize=100&citation_for_view=u8h7OSYAAAAJ:iH-uZ7U-co4C",
+    "authors": "J Rius, F Cores, F Solsona",
+    "journal": "Journal of Network and Computer Applications 36 (6)",
+    "pages": "1620-1631",
+    "pub_date": "2013"
   },
   {
     "title": "State-based predictions with self-correction on Enterprise Desktop Grid environments",
@@ -608,20 +344,20 @@
     "pub_date": "2013"
   },
   {
-    "title": "TControl: A mobile app to follow up tobacco-quitting patients",
-    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=u8h7OSYAAAAJ&pagesize=100&citation_for_view=u8h7OSYAAAAJ:2P1L_qKh6hAC",
-    "authors": "M Pifarre, A Carrera, J Vilaplana, J Cuadrado, S Solsona, F Abella, ...",
-    "journal": "Computer Methods and Programs in Biomedicine 142",
-    "pages": "81-89",
-    "pub_date": "2017"
-  },
-  {
     "title": "Optimizing planning and operation of renewable energy communities with genetic algorithms",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=u8h7OSYAAAAJ&pagesize=100&citation_for_view=u8h7OSYAAAAJ:i2xiXl-TujoC",
     "authors": "F Lazzari, G Mor, J Cipriano, F Solsona, D Chemisana, D Guericke",
     "journal": "Applied Energy 338",
     "pages": "120906",
     "pub_date": "2023"
+  },
+  {
+    "title": "TControl: A mobile app to follow up tobacco-quitting patients",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=u8h7OSYAAAAJ&pagesize=100&citation_for_view=u8h7OSYAAAAJ:2P1L_qKh6hAC",
+    "authors": "M Pifarre, A Carrera, J Vilaplana, J Cuadrado, S Solsona, F Abella, ...",
+    "journal": "Computer Methods and Programs in Biomedicine 142",
+    "pages": "81-89",
+    "pub_date": "2017"
   },
   {
     "title": "Identification of line\u2010specific strategies for improving carotenoid production in synthetic maize through data\u2010driven mathematical modeling",
